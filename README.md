@@ -1,4 +1,4 @@
-# Web-Development-Tricks-Tips
+# Web Development Tricks Tips
 
 <!-- BLOG-POST-LIST:START -->
 - [SSL – Adding a layer of security to your website](https://matrixread.com/ssl-adding-a-layer-of-security-to-your-website/)
