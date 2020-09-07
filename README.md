@@ -1,4 +1,7 @@
-# Web Development Tricks Tips
+# 
+<h1 align="center">
+	Web🌏 Development💻 Tricks🔥 Tips🔰
+</h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [Why I prefer to use 10 or fewer WordPress Plugins](https://matrixread.com/why-i-prefer-10-or-fewer-wordpress-plugins/)
