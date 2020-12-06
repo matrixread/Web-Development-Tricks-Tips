@@ -4,6 +4,7 @@
 </h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling Code Blocks in WordPress](https://matrixread.com/styling-code-blocks-in-wordpress/)
 - [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
 - [Create Beautiful Buttons](https://matrixread.com/create-beautiful-buttons/)
 - [Create a Beautiful Table of Contents](https://matrixread.com/create-a-beautiful-table-of-contents/)
