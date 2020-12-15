@@ -16,3 +16,5 @@
 - [Is your website mobile friendly, 3 ways to test, and its effect on Google Ranking](https://matrixread.com/is-your-website-mobile-friendly/)
 - [How to add Automatic Dark Mode to any Website / WordPress with 1 line of code](https://matrixread.com/automatic-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
+
+***
