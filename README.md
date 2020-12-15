@@ -1,7 +1,4 @@
-# 
-<h1 align="center">
-	Web🌏 Development💻 Tricks🔥 Tips🔰
-</h1>
+# Web🌏 Development💻 Tricks🔥 & Tips🔰
 
 <!-- BLOG-POST-LIST:START -->
 - [Best of Web – 2020](https://matrixread.com/best-web-resources-2020/)
