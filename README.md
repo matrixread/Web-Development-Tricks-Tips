@@ -1,4 +1,4 @@
-# Web🌏 Development💻 Tricks🔥 & Tips🔰
+# Web🌏 Development💻 Tips🔰 & Tricks🔥
 
 ***
 
