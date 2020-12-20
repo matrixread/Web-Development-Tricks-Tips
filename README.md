@@ -3,6 +3,7 @@
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a Simple Cookie Consent](https://matrixread.com/adding-a-simple-cookie-consent/)
 - [Best of Web – 2020](https://matrixread.com/best-web-resources-2020/)
 - [Styling Code Blocks in WordPress](https://matrixread.com/styling-code-blocks-in-wordpress/)
 - [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
