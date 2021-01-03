@@ -3,6 +3,7 @@
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Security – 101](https://matrixread.com/firebase-security-101/)
 - [BACKEND 101](https://matrixread.com/backend-101/)
 - [Adding a Simple Cookie Consent](https://matrixread.com/adding-a-simple-cookie-consent/)
 - [Best of Web – 2020](https://matrixread.com/best-web-resources-2020/)
